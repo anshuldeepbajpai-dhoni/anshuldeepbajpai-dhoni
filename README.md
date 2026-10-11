@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hi, I'm Anshul Deep Bajpai 👋<br>🎓 B.Tech CSE (AI & ML) student at AKTU, passionate about building intelligent systems and extracting insights from data.<br>🚀 Aspiring AI Engineer with hands-on experience in Machine Learning, Data Analytics, Power BI, SQL, Python, and Generative AI.<br>💡 I enjoy developing real-world projects that combine AI with practical problem-solving, including:<br>📈 Mutual Fund Analytics Platform<br>📧 Spam Email Classification System<br>📰 Fake News Detection<br>🎬 Movie Recommendation System<br>🏆 GATE DA 2026 Qualified and continuously learning advanced concepts in AI, Data Science, and NLP.<br>💼 Completed an AI Data Analytics Internship in the FinTech domain, working on data analysis, visualization, reporting, and AI-driven insights.
+Hi, I'm Anshul Deep Bajpai, a B.Tech student specializing in Computer Science and Engineering (Artificial Intelligence and Machine Learning) at Dr. A.P.J. Abdul Kalam Technical University (AKTU).
+
+I am an aspiring AI Engineer passionate about building intelligent systems, developing machine learning solutions, and transforming data into actionable insights. I have hands-on experience in Python, Machine Learning, Data Analytics, Power BI, SQL, Natural Language Processing, and Generative AI.
+
+I enjoy developing real-world projects that combine artificial intelligence with practical problem-solving, including a Mutual Fund Analytics Platform, Spam Email Classification System, Fake News Detection, and Movie Recommendation System.
+
+I have completed an AI Data Analytics internship in the FinTech domain, gaining experience in data analysis, exploratory data analysis, visualization, reporting, and business intelligence.
+
+I am also a GATE DA 2026 qualified candidate, continuously expanding my knowledge of Artificial Intelligence, Data Science, Deep Learning, NLP, and emerging AI technologies.
+
+My goal is to build impactful AI-driven applications, explore innovative research, and contribute to the development of intelligent, scalable solutions.
 
 
 ## 🌐 Socials:
